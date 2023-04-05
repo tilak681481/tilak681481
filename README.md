@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tilak681481
-- 👀 I’m interested in backend developement
+- 👀 I’m interested in frontend & backend developement
 - 🌱 I’m currently learning FastAPI
 - 💞️ I’m looking to collaborate on web developement
 - 📫 How to reach me :tilraj@deloitte.com
